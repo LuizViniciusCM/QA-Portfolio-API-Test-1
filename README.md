@@ -59,7 +59,7 @@ Os documentos foram escritos na ordem em que normalmente são produzidos em um c
 
 ## Ferramentas utilizadas
 
-Postman (principal) para requisições HTTP · Word e Excel para gestão de casos de teste e defeitos · Swagger da própria ServeRest como base de documentação
+Postman para requisições HTTP · Word e Excel para gestão de casos de teste e defeitos · Swagger da própria ServeRest como base de documentação
 
 ---
 
