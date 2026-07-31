@@ -24,7 +24,7 @@ Os documentos foram escritos na ordem em que normalmente são produzidos em um c
 | 1 | **Plano_de_Teste.pdf** | Escopo, tipos de teste, estratégia, técnicas de design de caso, critérios de entrada/saída, ambiente e ferramentas. Ponto de partida do ciclo. |
 | 2 | **Casos_de_Teste.pdf** | 32 casos de teste detalhados (CT-01 a CT-32), com pré-condições, dados de teste, passos, resultado esperado, prioridade e tipo de teste, cobrindo os recursos `/login`, `/usuarios`, `/produtos` e `/carrinhos`. |
 | 3 | **Matriz_Execucao.xlsx** | Planilha de execução do Ciclo 1: status de cada caso (Passou/Falhou), data, executor, evidências e observações. |
-| 4 | **Testes_postman_collection.json** | Coleção Postman com as requisições organizadas por recurso (Login, Cadastro de Usuários, Produtos, Carrinhos e Segurança), usada como evidência e apoio na execução. |
+| 4 | **Testes_postman_collection.json** | Coleção Postman com as requisições organizadas por recurso (Login, Cadastro de Usuários, Produtos, Carrinhos e Segurança), criada para execução dos testes. |
 | 5 | **Relatorio_de_Bugs.pdf** | O defeito encontrado na execução (BUG-01), com severidade, prioridade, passos para reproduzir, resultado esperado x obtido e evidências. |
 | 6 | **Test_Summary_Report.pdf** | Report do Ciclo 1: matriz de rastreabilidade, métricas, verificação dos critérios de saída, riscos residuais e recomendação final. |
 
