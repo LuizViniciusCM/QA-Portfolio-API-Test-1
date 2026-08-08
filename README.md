@@ -2,7 +2,7 @@
 
 **Autor:** Luiz Vinicius Cunha Maciel
 **Projeto:** Portfólio pessoal de QA
-**Aplicação sob teste:** [serverest.dev](https://serverest.dev) - API REST pública que simula o back-end de uma loja virtual
+**Aplicação sob teste:** [serverest.dev](https://serverest.dev) -- API REST pública que simula o back-end de uma loja virtual
 **Ciclo de referência:** Ciclo 1 · 31/07/2026
 
 ---
